@@ -14,7 +14,7 @@ enter the  number to be searched:58
 Item not found
 item found at position: 2
 
-=================== RESTART: C:/Python3.14/python programs.py ==================
+=================== RESTART: C:/Python3.14/python programs.py =================
 enter the  number to be searched:20
 Item not found
 Item not found
